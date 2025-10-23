@@ -3,7 +3,6 @@
 # ⚔️ XSS Scanner — Modern & Stylish
 
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge) ![Build](https://img.shields.io/badge/status-ready-blue?style=for-the-badge) ![Language](https://img.shields.io/badge/Language-Python%20%7C%20CLI-orange?style=for-the-badge)
-
 ---
 
 <p align="center">
