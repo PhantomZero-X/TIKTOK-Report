@@ -1,11 +1,6 @@
 <p align="center"> <img src="https://img.shields.io/badge/Version-0.1.0-blue.svg?style=for-the-badge&logo=github" alt="Version"> <img src="https://img.shields.io/badge/Python-3.8+-green.svg?style=for-the-badge&logo=python" alt="Python"> <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=opensourceinitiative" alt="License"> <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey.svg?style=for-the-badge&logo=windows" alt="Platform"> </p><p align="center"> <img width="800" src="https://raw.githubusercontent.com/MrKSecurity/xss-scanner-pro/main/assets/banner.png" alt="XSS Scanner Pro Banner"> </p>
 
 # ⚔️ XSS Scanner — Modern & Stylish
----
-<p align="center">
-  <img src="./assets/banner.png" alt="XSS Scanner Banner" width="900" />
-</p>
-
 > **XSS Scanner** — A fast, modern, and ethical Cross-Site Scripting (XSS) detection tool built for bug hunters, pentesters, and security students. Designed to be beautiful in the repo and powerful in the field.
 
 ---
@@ -140,5 +135,4 @@ Contributions welcome — open an issue or a PR. Please follow the CONTRIBUTING.
 
 ---
 
-📈 Performance Metrics
-<p align="center"> <img width="600" src="https://raw.githubusercontent.com/MrKSecurity/xss-scanner-pro/main/assets/performance.png" alt="Performance Metrics"> </p>
+
