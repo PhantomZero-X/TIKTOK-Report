@@ -140,16 +140,5 @@ Contributions welcome — open an issue or a PR. Please follow the CONTRIBUTING.
 
 ---
 
-## 📜 License
-
-MIT © Kilua Ahmad Al.A
-
----
-
-## 💬 Contact
-
-Kilua Ahmad Al.A — [kiluanostalgia@gmail.com](mailto:kiluanostalgia@gmail.com)
-
----
-
-> *Made with 🔍 + ☕ for learning and ethical security research.*
+📈 Performance Metrics
+<p align="center"> <img width="600" src="https://raw.githubusercontent.com/MrKSecurity/xss-scanner-pro/main/assets/performance.png" alt="Performance Metrics"> </p>
