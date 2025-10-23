@@ -1,10 +1,7 @@
 <p align="center"> <img src="https://img.shields.io/badge/Version-0.1.0-blue.svg" alt="Version"> <img src="https://img.shields.io/badge/Python-3.8+-green.svg" alt="Python"> <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License"> <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey.svg" alt="Platform"> </p>
 
 # ⚔️ XSS Scanner — Modern & Stylish
-
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge) ![Build](https://img.shields.io/badge/status-ready-blue?style=for-the-badge) ![Language](https://img.shields.io/badge/Language-Python%20%7C%20CLI-orange?style=for-the-badge)
 ---
-
 <p align="center">
   <img src="./assets/banner.png" alt="XSS Scanner Banner" width="900" />
 </p>
