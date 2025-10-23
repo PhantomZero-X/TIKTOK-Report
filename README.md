@@ -135,4 +135,4 @@ Contributions welcome — open an issue or a PR. Please follow the CONTRIBUTING.
 
 ---
 
-
+<p align="center"> <em>Built with ❤️ by the security community for a safer digital world</em> </p>
